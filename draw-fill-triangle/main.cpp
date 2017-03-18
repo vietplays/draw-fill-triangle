@@ -11,7 +11,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     int height;
-    cout << "Draw a fill triangle with height already\n";
+    cout << "Draw a fill triangle with the height already\n";
     cout << "Input the height: "; cin >> height;
     
     
